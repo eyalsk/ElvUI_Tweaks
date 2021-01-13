@@ -1,0 +1,20 @@
+## Interface: 90001
+## Author: Eyal Solnik
+## Title: |cff1784d1ElvUI|r Tweaks
+
+## Version: 1.0
+## RequiredDeps: ElvUI
+
+Globals.lua
+
+Core\Unit.lua
+
+Scripts\ActionBar.lua
+Scripts\ActionButtonMacroIndicator.lua
+Scripts\ActionButtonMacroTooltip.lua
+Scripts\CustomTags.lua
+Scripts\PVPReadyDialog.lua
+Scripts\QueueStatusMinimapButton.lua
+Scripts\Speedometer.lua
+Scripts\Tooltip.lua
+Scripts\UIWidgetPowerBarContainerFrame.lua
