@@ -16,5 +16,6 @@ Scripts\CustomTags.lua
 Scripts\PVPReadyDialog.lua
 Scripts\QueueStatusMinimapButton.lua
 Scripts\Speedometer.lua
+Scripts\StickyChatWindow.lua
 Scripts\Tooltip.lua
 Scripts\UIWidgetPowerBarContainerFrame.lua
