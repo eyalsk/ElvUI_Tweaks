@@ -4,6 +4,7 @@
 
 ## Version: 1.0
 ## RequiredDeps: ElvUI
+## OptionalDeps: sArena
 
 Globals.lua
 
@@ -15,6 +16,7 @@ Scripts\ActionButtonMacroTooltip.lua
 Scripts\CustomTags.lua
 Scripts\PVPReadyDialog.lua
 Scripts\QueueStatusMinimapButton.lua
+Scripts\sArena.lua
 Scripts\Speedometer.lua
 Scripts\StickyChatWindow.lua
 Scripts\Tooltip.lua
